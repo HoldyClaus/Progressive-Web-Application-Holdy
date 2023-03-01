@@ -15,13 +15,13 @@ UT Coding Bootcamp Challenge 19: Progressive Web App (PWA) Text Editor
 
 ## Installation
 
-
+https://pwa-holdyclaus.herokuapp.com/
 
 ## Usage
 
-![Landing-page]
-![Usage]
-![Indexeddb]
+![Landing-page](./client/src/images/landing.JPG)
+![Usage](./client/src/images/usage.JPG)
+![Indexeddb](./client/src/images/indexdb.JPG)
 
 ## Credits
 
